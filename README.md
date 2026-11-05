@@ -46,7 +46,7 @@ File instalasi aplikasi yang telah di-build tersedia langsung di dalam folder do
 ### 1. Pratinjau Antarmuka Layar (*Screens Showcase*)
 Perbandingan ketiga layar utama aplikasi **ChicKount** yang diekstrak langsung dari rekaman video demo pengujian:
 
-![Dokumentasi Layar Aplikasi](images/07_ui_screens_showcase.png)
+![Dokumentasi Layar Aplikasi](images/04_ui_screens_documentation.png.png)
 
 ---
 
