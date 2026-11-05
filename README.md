@@ -123,7 +123,6 @@ flowchart TD
    - Ketuk file `.apk` untuk memulai instalasi dan berikan izin *Install Unknown Apps* jika diminta.
    - Buka aplikasi **ChicKount** dan berikan izin akses kamera saat pertama kali membuka fitur Pindai.
   
-## 📜 License & Attribution
-Distributed under the **MIT License**. See `LICENSE` for more information.
+## 📜 Attribution
 Developed by **MaulanaASetiawan** (2026).  
 Special thanks to the open-source community, TensorFlow Lite team, and Ultralytics YOLOv8 for making edge AI accessible.
