@@ -2,7 +2,7 @@
 
 ![ChicKount Banner](images/01_app_overview_banner.png)
 
-**ChicKount** adalah aplikasi Android modern berbasis **Computer Vision (YOLOv8 TensorFlow Lite)** dan **Jetpack Compose** yang dirancang untuk membantu peternak ayam broiler menghitung populasi ayam secara otomatis, akurat, dan *realtime* melalui kamera perangkat maupun tangkapan foto statis. Seluruh hasil pemindaian beserta gambar anotasi *bounding box* disimpan secara permanen di penyimpanan lokal perangkat menggunakan arsitektur **MVVM (Model-View-ViewModel)** dan **Room Database**.
+**ChicKount** adalah aplikasi Android modern berbasis **Computer Vision (YOLOv8 TensorFlow Lite)** dan **Jetpack Compose** yang dirancang untuk membantu peternak ayam menghitung populasi ayam secara otomatis, dan *realtime* melalui kamera perangkat maupun tangkapan foto statis. Seluruh hasil pemindaian beserta gambar anotasi *bounding box* disimpan secara permanen di penyimpanan lokal perangkat menggunakan arsitektur **MVVM (Model-View-ViewModel)** dan **Room Database**.
 
 Dokumentasi gambar di bawah ini diambil langsung dari rekaman video pengujian dan demonstrasi aplikasi (*real device demo test*).
 
@@ -122,3 +122,7 @@ flowchart TD
    - Salin file [`ChicKount-v1.0-debug.apk`](ChicKount-v1.0-debug.apk) ke memori ponsel Android Anda.
    - Ketuk file `.apk` untuk memulai instalasi dan berikan izin *Install Unknown Apps* jika diminta.
    - Buka aplikasi **ChicKount** dan berikan izin akses kamera saat pertama kali membuka fitur Pindai.
+  
+## 📜 Attribution
+Developed by **MaulanaASetiawan** (2026).  
+Special thanks to the open-source community, TensorFlow Lite team, and Ultralytics YOLOv8 for making edge AI accessible.
